@@ -1,0 +1,16 @@
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.csproj.AssemblyReference.cache
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\DogGenetics.exe
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\DogGenetics.deps.json
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\DogGenetics.runtimeconfig.json
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\DogGenetics.runtimeconfig.dev.json
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\DogGenetics.dll
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\ref\DogGenetics.dll
+C:\Users\cbmar\source\repos\DogGenetics\bin\Debug\net5.0\DogGenetics.pdb
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.dll
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\ref\DogGenetics.dll
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.pdb
+C:\Users\cbmar\source\repos\DogGenetics\obj\Debug\net5.0\DogGenetics.genruntimeconfig.cache
